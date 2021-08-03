@@ -1,3 +1,4 @@
 # PowerBI  Project - 以租屋資料為例
-
-## step 1. 初步分析
+## 資料來源：https://rentalhouse.g0v.ddio.io/download/
+## 分析的議題：
+### step 1. 資料初步探索
