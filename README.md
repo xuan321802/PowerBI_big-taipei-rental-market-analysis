@@ -6,7 +6,7 @@
 ## • 執行流程 ✔
 ### Step 1. Power BI 資料前處理 ✔
 ### Step 2. 建立資料表之間的關聯性
-![關聯表](https://user-images.githubusercontent.com/78792773/128624852-9f8efe26-8e68-4f4b-8fcf-ab77ddc376df.png)
+![關聯表_4](https://user-images.githubusercontent.com/78792773/128625398-b45501aa-d8cb-4391-91a1-515e210954b5.png)
 
 
 step 1. 資料初步探索
