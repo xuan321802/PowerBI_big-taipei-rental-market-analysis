@@ -4,7 +4,7 @@
 #### 資料源 (開放台灣民間租屋資料)：https://rentalhouse.g0v.ddio.io/download/ ✔
 
 
-*執行步驟
+* 執行步驟
 ### step 1. 資料初步探索
 step 1. 資料初步探索
 
