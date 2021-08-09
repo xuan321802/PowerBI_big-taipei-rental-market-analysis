@@ -6,7 +6,7 @@
 ## • 執行流程 ✔
 ### Step 1. Power BI 資料前處理 ✔
 ### Step 2. 建立資料關聯性 ✔
-建立多對一資料表之間的關聯性
+建立多對一資料表之間的關聯性 ✔
 ![關聯性](https://github.com/xuan321802/power-bi_project/blob/main/project_images/establish%20relevance.png)
 ### Step 3. 資料初步探索分析
 這些背景就會取決於你收集到的數據，有哪些變數你可以拿來參考。先對整份資料有初步的掌握，就能夠做後續更深入的分析
