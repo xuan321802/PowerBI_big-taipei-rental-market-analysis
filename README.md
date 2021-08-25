@@ -1,9 +1,10 @@
-成果展示：https://app.powerbi.com/view?r=eyJrIjoiMDBiYjU0MDgtMTY3Mi00NDU2LWExMzMtNGE0ZGMxZDRiNDQ5IiwidCI6IjQ3MTRkNjgzLWQzMWMtNDQ2NS1iM2VjLTE5Y2M1YTQyMmZmMCJ9
-
+✔成果展示：https://app.powerbi.com/view?r=eyJrIjoiMDBiYjU0MDgtMTY3Mi00NDU2LWExMzMtNGE0ZGMxZDRiNDQ5IiwidCI6IjQ3MTRkNjgzLWQzMWMtNDQ2NS1iM2VjLTE5Y2M1YTQyMmZmMCJ9
 
 # Power BI analysis - 以2019年租屋資料為例 ✔
 ## 主題：2019年雙北各行政區租屋市場分析 ✔
 #### 服務族群：學生及社會新鮮人 ✔
+#### 動機與目的：
+雙北的租屋價都較其它縣市高出許多，讓青年族人叫苦連天，許多人會選擇通勤的方式，選擇不是精華的地段居住，但便宜的房租往往容易踩雷，所以本分析希望能幫助學生及社會新鮮人，能透過此分析找到，租金便宜、居住環境又良好的高CP值租房
 #### 資料源 (開放台灣民間租屋資料)：https://rentalhouse.g0v.ddio.io/download/ ✔
 ---
 ## • 執行流程 ✔
@@ -16,5 +17,3 @@
 ### Step 4. 深入分析 ✔
 挑出可能影響定義問題的參數，以及各個變數與問題的關聯
 ### Step 5. 成果展示
-
-
