@@ -1,4 +1,6 @@
-https://app.powerbi.com/view?r=eyJrIjoiMDBiYjU0MDgtMTY3Mi00NDU2LWExMzMtNGE0ZGMxZDRiNDQ5IiwidCI6IjQ3MTRkNjgzLWQzMWMtNDQ2NS1iM2VjLTE5Y2M1YTQyMmZmMCJ9
+#### 成果展示：https://app.powerbi.com/view?r=eyJrIjoiMDBiYjU0MDgtMTY3Mi00NDU2LWExMzMtNGE0ZGMxZDRiNDQ5IiwidCI6IjQ3MTRkNjgzLWQzMWMtNDQ2NS1iM2VjLTE5Y2M1YTQyMmZmMCJ9
+
+
 # Power BI analysis - 以2019年租屋資料為例 ✔
 ## 主題：2019年雙北各行政區租屋市場分析 ✔
 #### 服務族群：學生及社會新鮮人 ✔
