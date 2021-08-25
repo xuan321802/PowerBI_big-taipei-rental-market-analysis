@@ -17,6 +17,6 @@
 ### Step 4. 深入分析 ✔
 選出可能影響定義問題的參數，本分析以物件類型、月租金、每坪租金、租屋條件、交通便利性、生活機能、租屋房況，以這7大面向進行深入分析各個變數與問題的關聯。✔
 ### Step 5. 成果展示 ✔
-![展示1](https://github.com/xuan321802/power-bi_project/blob/main/project_images/%E6%9C%AA%E5%91%BD%E5%90%8D2.png)
-![展示](https://github.com/xuan321802/power-bi_project/blob/main/project_images/%E6%9C%AA%E5%91%BD%E5%90%8D.png)
+![部分展示_1](https://github.com/xuan321802/power-bi_project/blob/main/project_images/%E9%83%A8%E5%88%86%E5%B1%95%E7%A4%BA_1.png)
+![部分展示_2](https://github.com/xuan321802/power-bi_project/blob/main/project_images/%E6%9C%AA%E5%91%BD%E5%90%8D.png)
 
